@@ -99,4 +99,29 @@ CRM-Sales-Performance-Analysis/
 
 ---
 
-⭐ If you found this project useful, consider giving it a star!
+# 👨‍💻 About Me
+
+**Prateek Gupta**
+
+Data Analyst with hands-on experience in:
+
+- SQL
+- Python
+- Excel
+- Power BI
+- Data Visualization
+- Financial Analytics
+- Healthcare Analytics
+
+📧 Email: prateekgupta545@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/prateek-k-gupta
+
+🐙 GitHub: https://github.com/Prateekgupta-08
+
+---
+
+# ⭐ If you found this project helpful
+
+Please consider giving it a ⭐ on GitHub!
+
